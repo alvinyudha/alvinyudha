@@ -4,6 +4,13 @@
 
 #### 💼 About Me
 
+- 📚 Education: Fresh Graduate Diploma 4 in Information Technology – Jember State Polytechnic
+- 💬 Interested in web development, APIs, and CMS
+- 🏢 I'm looking for work
+- ✉️ Open to collaboration and freelance work!
+
+---
+
 #### 🧰 Tech Stack
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,&theme=light&perline=4)](https://skillicons.dev) -->
