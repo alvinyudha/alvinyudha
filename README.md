@@ -1,5 +1,10 @@
 ![welcome](/img/github-header-banner.png)
 
+<p align="center">
+  <a href="mailto:alvinyudha73@gmail.com"><img src="https://img.shields.io/badge/Email-alvinyudha73@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/alvyudha/"><img src="https://img.shields.io/badge/LinkedIn-Alvin%20Yudha-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/alvinyudha"><img src="https://img.shields.io/github/followers/alvinyudha?style=flat-square&label=Follow&logo=github"></a>
+</p>
 ---
 
 ### 🧰 Stack & Tools
