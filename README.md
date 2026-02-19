@@ -42,12 +42,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=alvinyudha&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinyudha&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-
-<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 ####
@@ -60,3 +54,9 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alvinyudha.alvinyudha&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
+
+###
