@@ -1,16 +1,15 @@
-Link Source:
+Link Source: 
 Dokumentasi Markdown GitHub
-https://docs.github.com/en/get-starte...
-Banner
-https://github.com/leviarista/github-... 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
+Banner 
+https://github.com/leviarista/github-profile-header-generator 
 Badge
-https://github.com/alexandresanlim/Ba... 
+https://github.com/alexandresanlim/Badges4-README.md-Profile 
 Icon
 https://github.com/tandpfun/skill-icons 
 Stats
-https://github.com/anuraghazra/github... 
+https://github.com/anuraghazra/github-readme-stats 
 Profile Generators
-https://gprm.itsvg.in
-https://rahuldkjain.github.io/gh-prof...
-Pacman & Snake
+https://gprm.itsvg.in https://rahuldkjain.github.io/gh-profile-readme-generator/
+Pacman & Snake 
 https://profile-readme-generator.com
