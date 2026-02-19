@@ -44,6 +44,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
+
 ####
 
 <div align="center">
