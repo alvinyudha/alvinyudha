@@ -50,6 +50,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 
 ####
