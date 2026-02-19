@@ -6,6 +6,8 @@
   <a href="https://github.com/alvinyudha"><img src="https://img.shields.io/github/followers/alvinyudha?style=flat-square&label=Follow&logo=github"></a>
 </p>
 
+---
+
 ### 💼 About Me
 
 ### 🧰 Tech Stack
@@ -20,4 +22,4 @@
 
 <a href="https://www.linkedin.com/in/alvyudha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/jovinsskj/"><img alt="Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="h[ttps://www.instagram.com/jovinsskj](mailto:alvinyudha73@gmail.com)/"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:alvinyudha73@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
