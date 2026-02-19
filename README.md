@@ -2,6 +2,10 @@
 
 ---
 
+####
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTczajVmdWNtejM0cXk2ZjJxdDRuZjZpbm5ic2ljam1xMHdzeGFqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlYWoNi6FlPnGuxOzu/giphy.gif"  />
+
 #### 💫 About Me
 
 - 📚 Education: Fresh Graduate Diploma 4 in Information Technology – Jember State Polytechnic
@@ -43,5 +47,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinyudha&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <p align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ 🎉</p>
