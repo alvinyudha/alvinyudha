@@ -44,20 +44,10 @@
 
 ---
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ 🎉</p>
+<h4 align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ</h4>
 
 ####
 
 <div align="center">
-<img  height="150" width="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTczajVmdWNtejM0cXk2ZjJxdDRuZjZpbm5ic2ljam1xMHdzeGFqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RlYWoNi6FlPnGuxOzu/giphy.gif"  />
+<img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnprZzh3YWV0ZDBpb3hvemFld3M2ZWhsamxrY25menRyOXA1dHp3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ULbDoVe2NQhg0QMtnj/giphy.gif"  />
 </div>
