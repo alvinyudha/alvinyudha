@@ -2,7 +2,7 @@
 
 ---
 
-#### 💼 About Me
+#### 💫 About Me
 
 - 📚 Education: Fresh Graduate Diploma 4 in Information Technology – Jember State Polytechnic
 - 💬 Interested in web development, APIs, and CMS
@@ -11,7 +11,7 @@
 
 ---
 
-#### 🧰 Tech Stack
+#### 💻 Tech Stack
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,&theme=light&perline=4)](https://skillicons.dev) -->
 
@@ -23,7 +23,7 @@
 
 <img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img alt="Adobe PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
-#### ✉️ Connect With Me
+#### 🌐 Connect With Me
 
 <a href="mailto:alvinyudha73@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/alvyudha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
