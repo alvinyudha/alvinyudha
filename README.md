@@ -2,7 +2,6 @@
 
 <p align="center">
 
-
   <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
     <img src="https://img.shields.io/github/commit-activity/m/alvinyudha/alvinyudha?" alt="Badge showing average commit frequency per month"/>
   </a>
