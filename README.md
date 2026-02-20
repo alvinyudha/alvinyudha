@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:alvinyudha?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:alvinyudha?theme=rule34&padding=6&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
