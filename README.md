@@ -18,6 +18,7 @@
 #### 💫 About Me
 
 - 📚 Education: Fresh Graduate Diploma 4 in Information Technology – Jember State Polytechnic
+- 🌱 i'm currently learning everything
 - 💬 Interested in web development, APIs, and CMS
 - 🏢 I'm looking for work
 - ✉️ Open to collaboration and freelance work!
