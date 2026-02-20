@@ -79,3 +79,9 @@
 </div>
 
 <h3 align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
+
+###
