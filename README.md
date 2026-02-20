@@ -1,9 +1,9 @@
 ![header](/img/github-header-banner.png)
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/alvinyudha"><img src="https://img.shields.io/github/followers/alvinyudha?color=ff0000&style=plastic-square&label=Follow&logo=github"></a>
 <img src="https://komarev.com/ghpvc/?username=alvinyudha&label=Profile%20views&color=ff0000&style=plastic-square&" alt="alvinyudha" />
-</div>
+</div> -->
 
 ###
 
