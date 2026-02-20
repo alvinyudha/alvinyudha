@@ -1,9 +1,24 @@
 ![header](/img/github-header-banner.png)
 
-<!-- <div align="center">
-<a href="https://github.com/alvinyudha"><img src="https://img.shields.io/github/followers/alvinyudha?color=ff0000&style=plastic-square&label=Follow&logo=github"></a>
-<img src="https://komarev.com/ghpvc/?username=alvinyudha&label=Profile%20views&color=ff0000&style=plastic-square&" alt="alvinyudha" />
-</div> -->
+<p align="center">
+
+
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/alvinyudha/alvinyudha?" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/alvinyudha/alvinyudha?" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/alvinyudha/alvinyudha?" alt="Badge showing the total of project issues"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/alvinyudha/alvinyudha?" alt="Badge showing the total of project pull-requests"/>
+  </a>
+</p>
 
 ###
 
@@ -86,10 +101,40 @@
 
 ###
 
-<picture>
+<!-- <p align="center">
+  <a href="https://github.com/alvinyudha/alvinyudha/fork" target="_blank">
+    <img src="https://img.shields.io/github/forks/alvinyudha/alvinyudha?" alt="Badge showing the total of project forks"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/alvinyudha/alvinyudha?" alt="Badge showing the total of project stars"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/alvinyudha/alvinyudha?" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/alvinyudha/alvinyudha?" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/alvinyudha/alvinyudha?" alt="Badge showing the total of project issues"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/alvinyudha/alvinyudha?" alt="Badge showing the total of project pull-requests"/>
+  </a>
+
+  <a href="https://github.com/alvinyudha/alvinyudha/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/alvinyudha/alvinyudha?color=f85149">
+  </a>
+</p> -->
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+### -->
