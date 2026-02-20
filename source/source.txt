@@ -10,6 +10,7 @@ https://github.com/tandpfun/skill-icons
 Stats
 https://github.com/anuraghazra/github-readme-stats 
 Profile Generators
-https://gprm.itsvg.in https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://gprm.itsvg.in 
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 Pacman & Snake 
 https://profile-readme-generator.com
