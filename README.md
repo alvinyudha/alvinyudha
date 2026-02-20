@@ -5,6 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=alvinyudha&label=Profile%20views&color=ff0000&style=plastic-square&" alt="alvinyudha" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:alvinyudha?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+</div>
+
+###
+
 ---
 
 #### 💫 About Me
@@ -45,6 +53,10 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=alvinyudha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinyudha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ---
 
 #### 📊 Github Stats
@@ -66,9 +78,3 @@
 </div>
 
 <h3 align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/snake.svg" alt="Snake animation" />
-
-###
