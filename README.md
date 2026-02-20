@@ -1,5 +1,10 @@
 ![header](/img/github-header-banner.png)
 
+<div align="center">
+<a href="https://github.com/alvinyudha"><img src="https://img.shields.io/github/followers/alvinyudha?style=flat-square&label=Follow&logo=github"></a>
+<a href="https://github.com/alvinyudha"> <img src="https://visitor-badge.laobi.icu/badge?page_id=alvinyudha"/></a>
+</div>
+
 ---
 
 #### 💫 About Me
@@ -51,9 +56,6 @@
 </div>
 
 <h3 align="center">ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴠɪꜱɪᴛɪɴɢ ᴍʏ ᴘʀᴏꜰɪʟᴇ</h3>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alvinyudha.alvinyudha&"  />
-</div>
 
 ###
 
