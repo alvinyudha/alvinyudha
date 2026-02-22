@@ -2,20 +2,20 @@
 
 <p align="center">
 
-  <a href="https://github.com/alvinyudha/Personal_Branding/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/alvinyudha/Personal_Branding?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/alvinyudha/alvinyudha?" alt="Badge showing average commit frequency per month"/>
   </a>
 
-  <a href="https://github.com/alvinyudha/Personal_Branding/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/alvinyudha/Personal_Branding?" alt="Badge showing when the last commit was made"/>
+  <a href="https://github.com/alvinyudha/alvinyudha/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/alvinyudha/alvinyudha?" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <a href="https://github.com/alvinyudha/Personal_Branding/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/alvinyudha/Personal_Branding?" alt="Badge showing the total of project issues"/>
+  <a href="https://github.com/alvinyudha/alvinyudha/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/alvinyudha/alvinyudha?" alt="Badge showing the total of project issues"/>
   </a>
 
-  <a href="https://github.com/alvinyudha/Personal_Branding/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/alvinyudha/Personal_Branding?" alt="Badge showing the total of project pull-requests"/>
+  <a href="https://github.com/alvinyudha/alvinyudha/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/alvinyudha/alvinyudha?" alt="Badge showing the total of project pull-requests"/>
   </a>
 </p>
 
