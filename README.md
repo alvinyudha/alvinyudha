@@ -16,7 +16,7 @@
   <a href="https://github.com/alvinyudha/alvinyudha/pulls" target="_blank">
     <img src="https://img.shields.io/github/issues-pr/alvinyudha/alvinyudha?" alt="Badge showing the total of project pull-requests"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=alvinyudha&label=Profile%20views&color=0e75b6&style=flat" alt="alvinyudha" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=alvinyudha&label=Profile%20views&color=0e75b6&style=flat" alt="alvinyudha" /> -->
 </p>
 
 ###
