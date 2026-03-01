@@ -64,19 +64,19 @@
 
 ---
 
+#### 📊 Github Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=alvinyudha&theme=tokyonight&hide_border=false)
+
+---
+
 #### 🔝 Top Contributed Repo
 
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=alvinyudha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
+![](https://github-contributor-stats.vercel.app/api?username=alvinyudha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvinyudha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
----
-
-#### 📊 Github Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=alvinyudha&theme=tokyonight&hide_border=false)
 
 ---
 
