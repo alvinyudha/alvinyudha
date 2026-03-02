@@ -31,7 +31,7 @@
 
 #### 💫 About Me
 
-- 📚 Education: Diploma 4 in Information Technology – Jember State Polytechnic
+- 📚 Education: Bachelor of Applied Science in Information Technology – Jember State Polytechnic
 - 🌱 i'm currently learning everything
 - 💬 Interested in web development, APIs, and CMS
 - 🏢 I'm looking for work
