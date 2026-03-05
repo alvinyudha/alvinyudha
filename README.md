@@ -100,6 +100,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- <p align="center">
   <a href="https://github.com/alvinyudha/alvinyudha/fork" target="_blank">
     <img src="https://img.shields.io/github/forks/alvinyudha/alvinyudha?" alt="Badge showing the total of project forks"/>
@@ -129,11 +137,3 @@
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/alvinyudha/alvinyudha?color=f85149">
   </a>
 </p> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvinyudha/alvinyudha/output/pacman-contribution-graph.svg">
-</picture>
-
-### -->
